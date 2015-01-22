@@ -7,10 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8481240F1A6E3D70004A8E9C /* ADAM.CG PRO.otf in Resources */ = {isa = PBXBuildFile; fileRef = 848124091A6E3D70004A8E9C /* ADAM.CG PRO.otf */; };
+		848124101A6E3D70004A8E9C /* BEBAS___.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8481240A1A6E3D70004A8E9C /* BEBAS___.ttf */; };
+		848124111A6E3D70004A8E9C /* nevis.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8481240B1A6E3D70004A8E9C /* nevis.ttf */; };
+		848124121A6E3D70004A8E9C /* Quicksand-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8481240C1A6E3D70004A8E9C /* Quicksand-Bold.otf */; };
+		848124131A6E3D70004A8E9C /* Quicksand-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8481240D1A6E3D70004A8E9C /* Quicksand-Regular.otf */; };
+		848124141A6E3D70004A8E9C /* SourceSansPro-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8481240E1A6E3D70004A8E9C /* SourceSansPro-Bold.otf */; };
+		848124191A6E4C89004A8E9C /* tippr_launchscreen_R55.png in Resources */ = {isa = PBXBuildFile; fileRef = 848124161A6E4C89004A8E9C /* tippr_launchscreen_R55.png */; };
+		8481241A1A6E4C89004A8E9C /* tippr_launchscreen_R47.png in Resources */ = {isa = PBXBuildFile; fileRef = 848124171A6E4C89004A8E9C /* tippr_launchscreen_R47.png */; };
+		8481241B1A6E4C89004A8E9C /* tippr_launchscreen_R4.png in Resources */ = {isa = PBXBuildFile; fileRef = 848124181A6E4C89004A8E9C /* tippr_launchscreen_R4.png */; };
+		848124231A6E52B0004A8E9C /* tippr_launchscreen_2X.png in Resources */ = {isa = PBXBuildFile; fileRef = 848124201A6E4F00004A8E9C /* tippr_launchscreen_2X.png */; };
+		848124311A6E54A0004A8E9C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 848124301A6E54A0004A8E9C /* Images.xcassets */; };
 		84FB69591A6C95A200461F53 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FB69581A6C95A200461F53 /* AppDelegate.swift */; };
 		84FB695B1A6C95A200461F53 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FB695A1A6C95A200461F53 /* ViewController.swift */; };
 		84FB695E1A6C95A200461F53 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84FB695C1A6C95A200461F53 /* Main.storyboard */; };
-		84FB69601A6C95A200461F53 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84FB695F1A6C95A200461F53 /* Images.xcassets */; };
 		84FB69631A6C95A200461F53 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84FB69611A6C95A200461F53 /* LaunchScreen.xib */; };
 		84FB696F1A6C95A200461F53 /* tipprTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FB696E1A6C95A200461F53 /* tipprTests.swift */; };
 /* End PBXBuildFile section */
@@ -26,12 +36,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		848124091A6E3D70004A8E9C /* ADAM.CG PRO.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ADAM.CG PRO.otf"; sourceTree = "<group>"; };
+		8481240A1A6E3D70004A8E9C /* BEBAS___.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BEBAS___.ttf"; sourceTree = "<group>"; };
+		8481240B1A6E3D70004A8E9C /* nevis.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = nevis.ttf; sourceTree = "<group>"; };
+		8481240C1A6E3D70004A8E9C /* Quicksand-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Quicksand-Bold.otf"; sourceTree = "<group>"; };
+		8481240D1A6E3D70004A8E9C /* Quicksand-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Quicksand-Regular.otf"; sourceTree = "<group>"; };
+		8481240E1A6E3D70004A8E9C /* SourceSansPro-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceSansPro-Bold.otf"; sourceTree = "<group>"; };
+		848124161A6E4C89004A8E9C /* tippr_launchscreen_R55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tippr_launchscreen_R55.png; sourceTree = "<group>"; };
+		848124171A6E4C89004A8E9C /* tippr_launchscreen_R47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tippr_launchscreen_R47.png; sourceTree = "<group>"; };
+		848124181A6E4C89004A8E9C /* tippr_launchscreen_R4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tippr_launchscreen_R4.png; sourceTree = "<group>"; };
+		848124201A6E4F00004A8E9C /* tippr_launchscreen_2X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tippr_launchscreen_2X.png; sourceTree = "<group>"; };
+		848124301A6E54A0004A8E9C /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		84FB69531A6C95A200461F53 /* tippr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tippr.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84FB69571A6C95A200461F53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84FB69581A6C95A200461F53 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84FB695A1A6C95A200461F53 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		84FB695D1A6C95A200461F53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		84FB695F1A6C95A200461F53 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		84FB69621A6C95A200461F53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		84FB69681A6C95A200461F53 /* tipprTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipprTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84FB696D1A6C95A200461F53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -56,9 +76,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		848124151A6E3D83004A8E9C /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				8481240A1A6E3D70004A8E9C /* BEBAS___.ttf */,
+				8481240B1A6E3D70004A8E9C /* nevis.ttf */,
+				8481240C1A6E3D70004A8E9C /* Quicksand-Bold.otf */,
+				8481240D1A6E3D70004A8E9C /* Quicksand-Regular.otf */,
+				8481240E1A6E3D70004A8E9C /* SourceSansPro-Bold.otf */,
+				848124091A6E3D70004A8E9C /* ADAM.CG PRO.otf */,
+			);
+			name = Fonts;
+			sourceTree = "<group>";
+		};
 		84FB694A1A6C95A200461F53 = {
 			isa = PBXGroup;
 			children = (
+				848124201A6E4F00004A8E9C /* tippr_launchscreen_2X.png */,
+				848124161A6E4C89004A8E9C /* tippr_launchscreen_R55.png */,
+				848124171A6E4C89004A8E9C /* tippr_launchscreen_R47.png */,
+				848124181A6E4C89004A8E9C /* tippr_launchscreen_R4.png */,
 				84FB69551A6C95A200461F53 /* tippr */,
 				84FB696B1A6C95A200461F53 /* tipprTests */,
 				84FB69541A6C95A200461F53 /* Products */,
@@ -77,11 +114,12 @@
 		84FB69551A6C95A200461F53 /* tippr */ = {
 			isa = PBXGroup;
 			children = (
+				848124151A6E3D83004A8E9C /* Fonts */,
 				84FB69581A6C95A200461F53 /* AppDelegate.swift */,
 				84FB695A1A6C95A200461F53 /* ViewController.swift */,
 				84FB695C1A6C95A200461F53 /* Main.storyboard */,
-				84FB695F1A6C95A200461F53 /* Images.xcassets */,
 				84FB69611A6C95A200461F53 /* LaunchScreen.xib */,
+				848124301A6E54A0004A8E9C /* Images.xcassets */,
 				84FB69561A6C95A200461F53 /* Supporting Files */,
 			);
 			path = tippr;
@@ -192,9 +230,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				848124111A6E3D70004A8E9C /* nevis.ttf in Resources */,
+				848124141A6E3D70004A8E9C /* SourceSansPro-Bold.otf in Resources */,
 				84FB695E1A6C95A200461F53 /* Main.storyboard in Resources */,
+				848124121A6E3D70004A8E9C /* Quicksand-Bold.otf in Resources */,
+				8481241A1A6E4C89004A8E9C /* tippr_launchscreen_R47.png in Resources */,
+				848124101A6E3D70004A8E9C /* BEBAS___.ttf in Resources */,
+				848124191A6E4C89004A8E9C /* tippr_launchscreen_R55.png in Resources */,
 				84FB69631A6C95A200461F53 /* LaunchScreen.xib in Resources */,
-				84FB69601A6C95A200461F53 /* Images.xcassets in Resources */,
+				8481240F1A6E3D70004A8E9C /* ADAM.CG PRO.otf in Resources */,
+				848124311A6E54A0004A8E9C /* Images.xcassets in Resources */,
+				848124131A6E3D70004A8E9C /* Quicksand-Regular.otf in Resources */,
+				8481241B1A6E4C89004A8E9C /* tippr_launchscreen_R4.png in Resources */,
+				848124231A6E52B0004A8E9C /* tippr_launchscreen_2X.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,7 +337,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -325,7 +373,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -337,6 +385,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = tippr/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -347,6 +396,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = tippr/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -405,6 +455,7 @@
 				84FB69741A6C95A200461F53 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84FB69751A6C95A200461F53 /* Build configuration list for PBXNativeTarget "tipprTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +464,7 @@
 				84FB69771A6C95A200461F53 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
